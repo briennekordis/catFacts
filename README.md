@@ -1,12 +1,12 @@
 ## Project Title
-Cat Facts
+catFacts
 
 ## Table of Contents
-- [Description & General Info]()
-- [Languages & Technologies]()
-- [Setup & Use]()
-- [Suggestions for Improvements]()
-- [Licensing Information]()
+- [Description & General Info](https://github.com/briennekordis/catFacts#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/catFacts#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/catFacts#setup--use)
+- [Suggestions for Improvements](https://github.com/briennekordis/catFacts#suggestions-for-improvements)
+- [Licensing Information](https://github.com/briennekordis/catFacts#licensing-information)
 
 ## Description & General Info
 This project is built with React and fetches data from an API to display random cat facts. 
