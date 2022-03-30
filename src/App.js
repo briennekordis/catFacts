@@ -23,7 +23,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Click the button for a cat fact.</h1>
-        <button onClick={handleClick}>Fact, please!</button>
+        <button onClick={handleClick}>Give me a fact right, MEOW!</button>
       </header>
     </div>
   );
